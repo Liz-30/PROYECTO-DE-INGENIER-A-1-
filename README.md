@@ -7,6 +7,7 @@
 [Sobre Nosotros](https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/0586cdc6f0a6a6531d173b4cf09e9cc3e5b03793/PI_1/Entregables/1.-%20Sobre_Nosotros.md)
 
 ## UNIVERSIDAD
+![Logo](<https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/main/Carpetas_del_Proyecto/Imagenes/A-Carpeta%20de%20presentaci%C3%B3n1/Logo_cayetano.jpeg>)
 
 
 ### País
