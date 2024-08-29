@@ -13,4 +13,3 @@
 ### País
 Perú-Lima
 
-## Proyecto: ......
