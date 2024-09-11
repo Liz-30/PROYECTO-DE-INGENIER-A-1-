@@ -1,17 +1,18 @@
+# *MODELO DE TINYML*
 
-## INTRODUCCION:
-
-
-
-## METODOLOGIA:
+### INTRODUCCIÓN:
 
 
 
-
-## RESULTADOS:
+### METODOLOÍA:
 
 
 
 
+### RESULTADOS:
 
-## DISCUSIONES:
+
+
+
+
+### DISCUSIONES:
