@@ -29,6 +29,11 @@ Se configuró el entorno de desarrollo para trabajar con el Arduino Nano 33 BLE 
 El modelo de ML se entrenó previamente en una plataforma de alto rendimiento y luego se adaptó para el Arduino utilizando TensorFlow Lite. El modelo se entrenó para identificar dos tipos de patrones: formas geométricas y números. Para el entrenamiento, se utilizaron datos de imágenes de formas simples (círculos) y dígitos numéricos (1 y 3). El conjunto de datos se preprocesó mediante técnicas de normalización y reducción de dimensionalidad para ajustarse a las limitaciones del hardware.
 
 
+<p align="center">
+  <a href="https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/main/Carpetas_del_Proyecto/Imagenes/WhatsApp%20Video%202024-09-10%20at%205.52.05%20PM.mp4">
+    Haz clic aquí para ver el video
+  </a>
+</p>
 
 
 
