@@ -66,7 +66,7 @@ Una vez entrenado el modelo, se convirtió a un formato compatible con el microc
 
 
 
-### DISCUSIONES:
+### 4.- DISCUSIONES:
 
 
 
