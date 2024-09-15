@@ -4,7 +4,8 @@
 
 *¿Quieres saber más sobre los participantes de este proyecto?*
 
-[Sobre Nosotros](https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/main/PI_1/Entregables/1.-%20Sobre_Nosotros.md)
+[Sobre Nosotros](https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/main/PI_1/Entregables/1.-%20Sobre%20nosotros/Presentaci%C3%B3n.md)
+
 
 ## UNIVERSIDAD
 ![Logo](<https://github.com/Liz-30/PROYECTO-DE-INGENIER-A-1-/blob/main/Carpetas_del_Proyecto/Imagenes/A-Carpeta%20de%20presentaci%C3%B3n1/Logo_cayetano.jpeg>)
