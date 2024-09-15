@@ -63,7 +63,7 @@ En base a la recopilación de datos, el modelo debe ser capaz de identificar las
 - LED verde: Activado cuando se detecta el número 1.
 
 
-Sin embargo, debido a nuetsras dificultades con el manejo de estas herramientas, no hemos logrado alcanzar los resultados esperados. Aunque logramos entrenar nuestro modelo, al momento de ejecutarlo en el Arduino, este no reconoce todas las muestras de manera adecuada.
+Sin embargo, debido a nuestras dificultades con el manejo de estas herramientas, no hemos logrado alcanzar los resultados esperados. Aunque logramos entrenar nuestro modelo, al momento de ejecutarlo en el Arduino, este no reconoce todas las muestras de manera adecuada.
 
 
 ![5be7c90e-1d41-45d8-99c3-b85972a20d59](https://github.com/user-attachments/assets/f781a746-e3ef-4712-8303-8ee3183195ba)
