@@ -40,7 +40,10 @@ https://github.com/user-attachments/assets/40f89249-e745-4640-9d5b-4a2387af70e8
 
 Es una plataforma en línea que se usa para el desarrollo de modelos de aprendizaje automático en dispositivos IoT, esta herramienta nos ayudo a entrenar un modelo de clasificación que fue diseñado para identificar señales de dibujo (circulo, uno y tres) partir de los datos recolectados por el Arduino Nano 33 BLE Sense. Esta herramienta permitió automatizar el procesamiento de datos sensoriales y mejorar la precisión en la detección de movimientos.
 
-![edge impulse](https://github.com/user-attachments/assets/faa5d81d-bd34-47e4-ad68-953ce77ebf5b)
+
+![4057a6ed-824e-474e-ac80-8445f42d3ed0](https://github.com/user-attachments/assets/f2914f3e-8a66-4173-8cac-f305f7bedcf1)
+
+
 
 ### - Google colab
 
@@ -49,9 +52,9 @@ Hemos utilizado esta herramienta para procesar y reformar los datos JSON obtenid
 ![image](https://github.com/user-attachments/assets/e86649d4-f1d4-4115-a078-e9b9057dd915)
 
 
-### Implementación en el Arduino Nano 33 BLE Sense
+### 3.- RESULTADOS:
 
-Una vez entrenado el modelo, se convirtió a un formato compatible con el microcontrolador y se cargó en el Arduino. Se programaron tres salidas específicas en función de la predicción del modelo:
+En base a la recopilación de datos, el modelo debe ser capaz de identificar las señales utilizando el modelo entrenado y proporcionar los resultados correspondientes.
 
 - LED rojo: Activado cuando se detecta un círculo.
 
@@ -60,7 +63,12 @@ Una vez entrenado el modelo, se convirtió a un formato compatible con el microc
 - LED verde: Activado cuando se detecta el número 1.
 
 
-### 3.- RESULTADOS:
+Sin embargo, debido a nuetsras dificultades con el manejo de estas herramientas, no hemos logrado alcanzar los resultados esperados. Aunque logramos entrenar nuestro modelo, al momento de ejecutarlo en el Arduino, este no reconoce todas las muestras de manera adecuada.
+
+
+![5be7c90e-1d41-45d8-99c3-b85972a20d59](https://github.com/user-attachments/assets/f781a746-e3ef-4712-8303-8ee3183195ba)
+
+
 
 
 
@@ -68,8 +76,13 @@ Una vez entrenado el modelo, se convirtió a un formato compatible con el microc
 
 ### 4.- DISCUSIONES:
 
+Este proyecto nos permitió apreciar el enorme potencial de TinyML en dispositivos pequeños como el Arduino Nano 33 BLE Sense. La capacidad de ejecutar modelos de aprendizaje automático en un dispositivo compacto y de bajo consumo abre la puerta a una nueva era de aplicaciones inteligentes en campos como el IoT, la agricultura, la salud, y muchas otras áreas donde la eficiencia energética es crucial.
 
+El hecho de que el modelo es bueno y responde a formas y números como círculos y dígitos muestra cómo TinyML puede facilitar la interacción entre las personas y las máquinas en entornos cotidianos. No obstante, también enfrentamos algunos desafíos, como la limitación en la precisión cuando las imágenes de entrada eran más complejas o de menor calidad. Esto nos hizo reflexionar sobre la necesidad de continuar optimizando el procesamiento de imágenes y mejorar la robustez del modelo ante ruidos en los datos.
 
+Otro aspecto que se destacó fue el tiempo de respuesta del dispositivo. Aunque en general fue satisfactorio, se observó que el modelo podría beneficiarse de una mayor optimización en términos de velocidad, especialmente cuando se trabaja con grandes cantidades de datos o en aplicaciones que requieren respuestas en tiempo real.
+
+De este trabajo podemos conluir que el modelo que empleamos es adecuado para tareas de optimización y aprendizaje, ya que tiene un bajo consumo de energía, lo que lo hace eficiente. Sin embargo, debido a nuestra falta de experiencia tanto en el tema como en el manejo adecuado de la página web, no hemos logrado alcanzar los objetivos planteados.
 
 
 
