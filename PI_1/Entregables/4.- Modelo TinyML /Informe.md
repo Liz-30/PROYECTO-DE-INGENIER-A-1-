@@ -1,6 +1,6 @@
 # *MODELO DE TINYML*
 
-### INTRODUCCIÓN:
+### 1.- INTRODUCCIÓN:
 Machine learning (Aprendizaje automático integrado) en la actualidad representa un avance significativo en la capacidad qué tienen los dispositivos para realizar un procesamiento inteligente de datos, este se enfoca en la implementación de algoritmos de aprendizaje en sistemas embebidos (funciones específicas), lo que esto permite la ejecución de tareas complejas directamente en el dispositivo sin depender de recursos computacionales externos [1].
 
 El TinyML (Machine Learning en Dispositivos Pequeños), que se centra en la adaptación y optimización de modelos de aprendizaje automático para su ejecución en hardware con  algunas limitaciones en términos de procesamiento, memoria y consumo energético. TinyML facilita la integración de capacidades inteligentes en dispositivos compactos y de bajo consumo, ampliando las posibilidades para aplicaciones en el Internet de las Cosas (IoT), dispositivos portátiles y sistemas de monitoreo ambiental [2].
@@ -16,7 +16,7 @@ El presente informe tiene como objetivo desarrollar un modelo de TinyML para su 
 Estos resultados nos van a permitir validar la capacidad  que tiene el modelo TinyML para identificar y diferenciar entre formas geométricas y dígitos, facilitando la interacción con el entorno a través de señales visuales.
 
 
-### METODOLOÍA:
+### 2.- METODOLOÍA:
 
 El proceso para implementar el modelo TinyML en el Arduino Nano 33 BLE Sense se dividió en varias fases:
 
@@ -41,7 +41,7 @@ Una vez entrenado el modelo, se convirtió a un formato compatible con el microc
 
 
 
-### RESULTADOS:
+### 3.- RESULTADOS:
 
 
 
