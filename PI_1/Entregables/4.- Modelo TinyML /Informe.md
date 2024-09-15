@@ -32,7 +32,7 @@ El Arduino Nano 33 BLE es una placa de desarrollo de bajo costo, que incluye con
 
 ### - TinyML
  
-Mediante esta plataforma (https://tinyml.seas.harvard.edu/magic_wand/) hemos recolectado patrones de dibujo como formas geometricas (circulos) y datos numericos (1y2).
+Mediante esta plataforma (https://tinyml.seas.harvard.edu/magic_wand/) hemos recolectado patrones de dibujo como formas geometricas (circulos) y datos numericos (1 y 3).
 
 https://github.com/user-attachments/assets/40f89249-e745-4640-9d5b-4a2387af70e8
 
