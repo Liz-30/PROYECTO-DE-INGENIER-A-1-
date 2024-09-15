@@ -36,7 +36,7 @@ Mediante esta plataforma (https://tinyml.seas.harvard.edu/magic_wand/) hemos rec
 
 https://github.com/user-attachments/assets/40f89249-e745-4640-9d5b-4a2387af70e8
 
-### - Edge Impluce:
+### - Edge Impluse:
 
 Es una plataforma en línea que se usa para el desarrollo de modelos de aprendizaje automático en dispositivos IoT, esta herramienta nos ayudo a entrenar un modelo de clasificación que fue diseñado para identificar señales de dibujo (circulo, uno y tres) partir de los datos recolectados por el Arduino Nano 33 BLE Sense. Esta herramienta permitió automatizar el procesamiento de datos sensoriales y mejorar la precisión en la detección de movimientos.
 
